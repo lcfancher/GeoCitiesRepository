@@ -1,4 +1,4 @@
-# GeoCitiesRepository
+# GeoCities Repository
 A prototype digital repository to preserve various GeoCities webpages.
 
 Sourced from OoCities.Org, this set of 5 sites represents a prototype repository for GeoCities sites.
